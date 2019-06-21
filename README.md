@@ -10,6 +10,7 @@ Some materials about open set domain adaptation, where the label space of source
 * ECCV 2018 [Open Set Domain Adaptation by Backpropagation](https://arxiv.org/pdf/1804.10427.pdf)
   * code (unofficial): [tensorflow](https://github.com/Mid-Push/Open_set_domain_adaptation)
                        [pytorch](https://github.com/YU1ut/openset-DA)
+* NIPS 2017 [Label Efficient Learning of Transferable Representations across Domains and Tasks](http://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks)
 * ICCV 2017 [Open Set Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf)
   * code: [open-set-da](https://github.com/Heliot7/open-set-da)
 
